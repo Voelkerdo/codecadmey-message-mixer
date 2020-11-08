@@ -14,12 +14,10 @@ const messageMixer = {
         return generatedMessage.join(' ');
     },
 
-    /*logGeneratedMessage(callback) {
-        let generatedMessage = callback();
-        console.log(callback());
-        //console.log(generatedMessage);
-    }*/
+    logGeneratedMessage() {
+        let generatedMessage = this.generateMessage();
+        console.log(generatedMessage);
+    }
 };
 
-console.log(messageMixer.generateMessage());
-//messageMixer.logGeneratedMessage(messageMixer.generateMessage);
+messageMixer.logGeneratedMessage();
