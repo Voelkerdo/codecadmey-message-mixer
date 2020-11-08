@@ -11,3 +11,4 @@
 
 - Random characters like (. ! ? :) :D)
 - Emojies (📺, 🏄, 🔧)
+- Ascii Art can be added
