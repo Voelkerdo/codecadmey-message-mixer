@@ -6,4 +6,8 @@
 
 - A random string should be generated every time a user runs the program.
 - The string should be build up from multiple strings, to make the program truly random.
-- The program should output nonsense jokes.
+
+### Things to add in the future:
+
+- Random characters like (. ! ? :) :D)
+- Emojies (📺, 🏄, 🔧)
